@@ -1,3 +1,12 @@
+## [4.1.3](https://github.com/doublesymmetry/react-native-track-player/compare/v4.1.2...v4.1.3) (2024-08-02)
+
+
+### Bug Fixes
+
+* **web:** update currentIndex when inserting tracks before active track ([7d5152b](https://github.com/doublesymmetry/react-native-track-player/commit/7d5152b8cd82476b92576fd54f66eef0a01e2605))
+
+
+
 ## [4.1.2](https://github.com/doublesymmetry/react-native-track-player/compare/v4.1.1...v4.1.2) (2024-08-02)
 
 
