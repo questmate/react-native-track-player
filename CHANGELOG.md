@@ -1,3 +1,12 @@
+## [4.1.2](https://github.com/doublesymmetry/react-native-track-player/compare/v4.1.1...v4.1.2) (2024-08-02)
+
+
+### Bug Fixes
+
+* **web:** fix issues with repeat mode and track add logic ([#2291](https://github.com/doublesymmetry/react-native-track-player/issues/2291)) ([6c4a3bd](https://github.com/doublesymmetry/react-native-track-player/commit/6c4a3bd7d47c6ba8c85db4c1d031dc904bb0cd1a))
+
+
+
 # [4.1.1](https://github.com/doublesymmetry/react-native-track-player/compare/v4.1.0...v4.1.1) (2024-03-26)
 
 - **RN:** Fixes an issue when using local assets in release builds
