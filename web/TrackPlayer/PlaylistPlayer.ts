@@ -82,6 +82,9 @@ export class PlaylistPlayer extends Player {
   public async add(tracks: Track[], insertBeforeIndex?: number) {
     if (insertBeforeIndex !== -1 && insertBeforeIndex !== undefined) {
       this.playlist.splice(insertBeforeIndex, 0, ...tracks);
+      if (this.currentIndex !== undefined && insertBeforeIndex <= this.currentIndex) {
+        this.currentIndex = this.currentIndex + tracks.length;
+      }
     } else {
       this.playlist.push(...tracks);
     }
