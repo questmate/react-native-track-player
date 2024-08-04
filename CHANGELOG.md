@@ -1,3 +1,12 @@
+## [4.1.4](https://github.com/doublesymmetry/react-native-track-player/compare/v4.1.3...v4.1.4) (2024-08-04)
+
+
+### Bug Fixes
+
+* **podspec:** set the name explicitly in the podspec ([21cdeeb](https://github.com/doublesymmetry/react-native-track-player/commit/21cdeeb613e05aa3460112b0152084a720dece12))
+
+
+
 ## [4.1.3](https://github.com/doublesymmetry/react-native-track-player/compare/v4.1.2...v4.1.3) (2024-08-02)
 
 
